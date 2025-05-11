@@ -1,0 +1,113 @@
+body {
+    background-color: blueviolet;
+}
+header {
+    font-size: 35px;
+    margin-left: 180px; 
+    color: rgb(115, 255, 0);
+}
+
+h1 {
+    margin-left: 180px;
+    color: yellow;
+}
+
+p{
+    font-size: 25px;
+    color: white;
+}
+
+h2{
+    margin-left: 180px;
+    color: yellow;
+}
+
+h3{
+    margin-left: 220px;
+    color: yellow;
+    font-size: 30px;
+}
+
+h4{
+margin-left: 220px;
+color: yellow;
+font-size: 25px;
+}
+
+h5{
+margin-left: 220px;
+color: yellow;
+font-size: 25px;
+}
+
+h6{
+margin-left: 250px;
+color: yellow;
+font-size: 25px;
+}
+.vudil{
+background-color: coral;
+padding: 10px;
+}
+
+.ryh{
+background-color: red;
+padding: 10px;
+}
+
+.lox{
+background-color: chartreuse;
+padding: 10px;
+}
+.chinazes{
+background-color: orangered;
+padding: 10px;
+}
+.mentoruTOP{
+background-color: I yellow;
+padding: 10px;
+color: black;
+}
+
+.ayf{
+background-color: hotpink;
+padding: 10px;
+color: black;
+}
+
+.hacaton{
+background-color: rgb(115, 255, 0);
+padding: 10px;
+color: black;
+}
+
+.vitalik{
+background-color: dodgerblue;
+padding: 10px;
+}
+
+h7{
+margin-left: 250px;
+color: yellow;
+font-size: 25px;
+}
+
+h8{
+margin-left: 220px;
+color: yellow;
+font-size: 25px
+}
+
+.kyky{
+background-color:crimson;
+padding: 10px;
+}
+
+img{
+width: 45%;
+}
+
+article{
+width: 45%;
+float: left;
+}
